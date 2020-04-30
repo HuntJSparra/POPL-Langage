@@ -1,0 +1,4 @@
+LET X FALSE
+(IF (LET X TRUE X)
+    X
+    -1)

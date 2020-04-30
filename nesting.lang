@@ -1,0 +1,2 @@
+AND (OR TRUE FALSE)
+    (NOT FALSE)

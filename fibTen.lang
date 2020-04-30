@@ -1,0 +1,2 @@
+LAMBDA fib n (IF (LTE n 2) 1
+                           (ADD (CALL fib (SUB n 1)) (CALL fib (SUB n 2)))) (CALL fib 10)
